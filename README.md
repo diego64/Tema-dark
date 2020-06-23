@@ -14,7 +14,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React.js](https://nodejs.org/en/)
+- [React.Js](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
 
 ## 💣 Projeto
