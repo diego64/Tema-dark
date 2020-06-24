@@ -1,5 +1,5 @@
 <h4 align="center">
-  🎨 Troca de tema da aplicação React.JS
+  🎨 Troca de tema em uma aplicação React.JS
 </h4>
 
 <p align="center">
