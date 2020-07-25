@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É uma aplicação React.JS com a função de trocar o tema light pelo dark com um click em um botão.
 
-## 📐 Desenvolvimento
+## 📐 Desenvolvimento 
 
 O projeto foi divido em 4 partes: 
 
